@@ -2,9 +2,9 @@
 library(ggplot2)
 library(tseries)
 
-setwd("E:/�Ͽ�/STAT4601/GP/GP")
+setwd("E:/ÉÏ¿Î/STAT4601/GP/GP")
 # Set the file path of the CSV file
-file_path <- "E:/�Ͽ�/STAT4601/GP/CNYHKD=X.csv"
+file_path <- "E:/ÉÏ¿Î/STAT4601/GP/CNYHKD=X.csv"
 
 # Read the CSV file
 data <- read.csv(file_path)
